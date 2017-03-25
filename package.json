@@ -12,5 +12,10 @@
     "lazy"
   ],
   "author": "jordan l piepkow",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^15.4.2",
+    "uuid": "^3.0.1"
+  }
 }
