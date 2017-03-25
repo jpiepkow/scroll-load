@@ -1,0 +1,14 @@
+/* The animation code */
+@keyframes come-in {
+  to { transform: translateY(0); }
+}
+
+/* The element to apply the animation to */
+.hidden {
+	visibility: hidden;
+}
+.vis {
+		transform: translateY(150px);
+  	animation: come-in 0.8s ease forwards;
+		visibility: visible;
+}

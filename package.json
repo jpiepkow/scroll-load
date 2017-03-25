@@ -1,0 +1,16 @@
+{
+  "name": "scroll-load",
+  "version": "1.0.0",
+  "description": "react component that will \"slide in\" children as they enter the viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scroll",
+    "load",
+    "lazy"
+  ],
+  "author": "jordan l piepkow",
+  "license": "ISC"
+}
