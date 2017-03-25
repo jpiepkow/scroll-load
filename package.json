@@ -1,6 +1,6 @@
 {
   "name": "scroll-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react component that will \"slide in\" children as they enter the viewport",
   "main": "index.js",
   "scripts": {

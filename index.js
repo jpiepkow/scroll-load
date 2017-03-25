@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import uuid from 'uuid';
-import us from 'underscore';
 import './ScrollLoad.css'
 import classNames from 'classnames'
 class ScrollLoad extends Component {
