@@ -1,6 +1,6 @@
 scroll-load
 ====
-Description: This module is used as a super simple way to the the "slide in affect" for children elements wrapped inside it.
+Description: This module is used as a super simple way to the the "slide in affect" for children elements wrapped inside it. It only triggers the animation on down scroll.
 
 Things to note before you use this module
 
@@ -27,4 +27,4 @@ currently no params are passed in.
 
 TODO: move to single event listener & allow css animation to be customizable to allow for different in view animations.
 
-If you are so inclined feel free to fork and send me a pull request because it might be a minute before I get to these changes.	
+If you are so inclined feel free to fork and send me a pull request because it might be a minute before I get to these changes. Although currently I compiled the code for es5 seperately. I did include the preBuilt.js so you can see the base code.
